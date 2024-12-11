@@ -1,7 +1,7 @@
-[![Gem Version](https://badge.fury.io/rb/omniauth-garmin.svg)](https://badge.fury.io/rb/omniauth-smashrun)
-
 # Omniauth::Strategies::Garmin
+
 Omniauth strategy for Garmin Connect.
+
 ## Installation
 
 Add this line to your application's Gemfile:

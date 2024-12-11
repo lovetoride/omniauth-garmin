@@ -3,8 +3,8 @@ source "https://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-source 'https://rubygems.org'
-gem 'omniauth-oauth', '~> 1.1.0'
+source "https://rubygems.org"
+gem "omniauth-oauth", "~> 1.2", ">= 1.2.1"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
